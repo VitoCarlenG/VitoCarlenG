@@ -1,6 +1,6 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hello 👋, I'm Vito Carlen Giovanni</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure.</h3>
 <img align="right" alt="Prog(r)ammer" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRrcDE3enNqdTJ6dDVyM215dmR2Y3c0Y2wxdmloaGNvY3c2M3E0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=0e75b6&style=flat" alt="VitoCarlenG" /> </p>
