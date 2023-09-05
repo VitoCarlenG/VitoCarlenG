@@ -3,8 +3,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=2f81f7&style=flat" alt="VitoCarlenG" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **vitocarlengiovanni@gmail.com**
 
 - 📄 Know about my experiences [vitocarlengiovanniresume.tiiny.site](tes)
