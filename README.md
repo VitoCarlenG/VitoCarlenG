@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Vito Carlen Giovanni</h1>
 <h3 align="center">As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=#2849b2&style=flat" alt="VitoCarlenG" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=2849b2&style=flat" alt="VitoCarlenG" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
