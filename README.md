@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Vito Carlen Giovanni</h1>
 <h3 align="center">As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure.</h3>
-<img align="right" alt="Prog(r)ammer" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRrcDE3enNqdTJ6dDVyM215dmR2Y3c0Y2wxdmloaGNvY3c2M3E0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Prog(r)ammer" width="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRrcDE3enNqdTJ6dDVyM215dmR2Y3c0Y2wxdmloaGNvY3c2M3E0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=0e75b6&style=flat" alt="VitoCarlenG" /> </p>
 
