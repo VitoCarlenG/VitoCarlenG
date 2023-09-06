@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vitocarlengiovanni@gmail.com**
 
-- 📄 Know about my experiences [vitocarlengiovanniresume.tiiny.site](main)
+- 📄 Know about my experiences [vitocarlengiovanniresume.tiiny.site](https://raw.githubusercontent.com/VitoCarlenG/VitoCarlenG/009b31f075eda1ffef7a9d187a51bc74f8927f3d/Vito%20Carlen%20Giovanni's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
