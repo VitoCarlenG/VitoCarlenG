@@ -18,7 +18,7 @@
 
 <div style="overflow: hidden;">
   <a href="https://github.com/VitoCarlenG?tab=repositories" style="float: left;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitoCarlenG" alt="streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitoCarlenG&&theme=tokyonight" alt="streak stats" />
   </a>
   
   <a href="https://github.com/VitoCarlenG?tab=repositories" style="float: right;">
