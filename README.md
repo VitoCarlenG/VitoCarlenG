@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello! I'm Vito Carlen Giovanni</h1>
-<h3 align="center">As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure.</h3>
+<h3 align="center">As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure. I enjoy working with diverse teams and learning new technologies and frameworks.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=2f81f7&style=flat" alt="VitoCarlenG" /> </p>
 
