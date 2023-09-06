@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vitocarlengiovanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/vitocarlengiovanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
