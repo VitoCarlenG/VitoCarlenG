@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoCarlenG&show_icons=true&locale=en&layout=compact" alt="top skills" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=VitoCarlenG&" alt="streak stats" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VitoCarlenG&" alt="streak stats" /></p>
