@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hello! I'm Vito Carlen Giovanni</h1>
 <h3 align="center">As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure. I enjoy working with diverse teams and learning new technologies and frameworks. I am looking for an opportunity to apply my skills and knowledge in a challenging and innovative environment.</h3>
-
+<br/>
 - 📫 How to reach me **vitocarlengiovanni@gmail.com**
 
 - 📄 Know about my experiences [vitocarlengiovanniresume.tiiny.site](https://raw.githubusercontent.com/VitoCarlenG/VitoCarlenG/009b31f075eda1ffef7a9d187a51bc74f8927f3d/Vito%20Carlen%20Giovanni's%20Resume.pdf)
