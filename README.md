@@ -5,7 +5,7 @@
 <br>
 
 - 📫 How to reach me **vitocarlengiovanni@gmail.com**
-- 🟢 Get in touch with me [+62 852-1111-9961](https://wa.me/+6285211119961)
+- 📱 Get in touch with me [+62 852-1111-9961](https://wa.me/+6285211119961)
 - 📄 Know about my experiences [Vito Carlen Giovanni's Resume](https://raw.githubusercontent.com/VitoCarlenG/VitoCarlenG/009b31f075eda1ffef7a9d187a51bc74f8927f3d/Vito%20Carlen%20Giovanni's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
