@@ -18,10 +18,10 @@
 
 <div style="justify-content: space-between; display: flex;">
   <a href="https://github.com/VitoCarlenG?tab=repositories">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VitoCarlenG" alt="streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitoCarlenG" alt="streak stats" />
   </a>
   
   <a href="https://github.com/VitoCarlenG?tab=repositories">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoCarlenG&show_icons=true&locale=en&layout=compact" alt="top skills" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoCarlenG&show_icons=true&locale=en&layout=compact" alt="top skills" />
   </a>
 </div>
