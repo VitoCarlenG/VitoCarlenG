@@ -4,9 +4,9 @@
 <h3 align="center">As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure. I enjoy working with diverse teams and learning new technologies and frameworks. I am looking for an opportunity to apply my skills and knowledge in a challenging and innovative environment.</h3>
 <br>
 
+- 👨‍💼 Know about my experiences [Vito Carlen Giovanni's Resume](https://raw.githubusercontent.com/VitoCarlenG/VitoCarlenG/009b31f075eda1ffef7a9d187a51bc74f8927f3d/Vito%20Carlen%20Giovanni's%20Resume.pdf)
 - 📧 How to reach me **vitocarlengiovanni@gmail.com**
 - 📱 Get in touch with me [+62 852-1111-9961](https://wa.me/+6285211119961)
-- 👨‍💼 Know about my experiences [Vito Carlen Giovanni's Resume](https://raw.githubusercontent.com/VitoCarlenG/VitoCarlenG/009b31f075eda1ffef7a9d187a51bc74f8927f3d/Vito%20Carlen%20Giovanni's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
