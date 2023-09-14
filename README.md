@@ -20,12 +20,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/VitoCarlenG?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoCarlenG&show_icons=true&locale=en&layout=compact" alt="topskills" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitoCarlenG" alt="streakstats" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/VitoCarlenG?tab=repositories">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitoCarlenG" alt="streakstats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoCarlenG&show_icons=true&locale=en&layout=compact" alt="topskills" />
       </a>
     </td>
   </tr>
