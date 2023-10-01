@@ -2,6 +2,7 @@
 
 <h1 align="center">👋 Hello! I'm Vito</h1>
 As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure. I am skilled in Front-end and Back-end Development, as well as testing, debugging, and deploying applications. I enjoy working with diverse teams and learning new technologies and frameworks. I am looking for an opportunity to apply my skills and knowledge in a challenging and innovative environment.
+
 <br>
 
 - 👨‍💼 Know about my experiences [Vito Carlen Giovanni's Resume](https://raw.githubusercontent.com/VitoCarlenG/VitoCarlenG/e69894c6907b657394c763ba9da20b10ba48f15b/Vito%20Carlen%20Giovanni's%20Resume.pdf)
