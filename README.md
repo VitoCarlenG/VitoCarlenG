@@ -1,6 +1,6 @@
 <p align="right"><a href="https://github.com/VitoCarlenG"><img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=2849b2&style=flat" alt="visitors count" /></a></p>
 
-<h3 align="center">👋 Hello! I'm Vito</h3>
+<h1 align="center">👋 Hello! I'm Vito</h1>
 As a Full Stack Developer, I have a passion for creating web and mobile applications that are user-friendly, scalable, and secure. I am skilled in Front-end and Back-end Development, as well as testing, debugging, and deploying applications. I enjoy working with diverse teams and learning new technologies and frameworks. I am looking for an opportunity to apply my skills and knowledge in a challenging and innovative environment.
 
 <h3></h3>
