@@ -7,7 +7,7 @@ As a Full Stack Developer, I have a passion for creating web and mobile applicat
 
 - 👨‍💼 Know about my experiences [Vito Carlen Giovanni's Resume](https://raw.githubusercontent.com/VitoCarlenG/VitoCarlenG/main/Vito%20Carlen%20Giovanni's%20Resume.pdf)
 - 📧 How to reach me [vitocarlengiovanni@gmail.com](mailto:vitocarlengiovanni@gmail.com)
-- 📱 Get in touch with me [+62 852-1111-9961](https://wa.me/+6285211119961)
+- 📱 Get in touch with me [+62 85211119961](https://wa.me/+6285211119961)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
