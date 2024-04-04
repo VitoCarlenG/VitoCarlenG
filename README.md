@@ -1,7 +1,7 @@
 <p align="right"><a href="https://github.com/VitoCarlenG"><img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=2849b2&style=flat" alt="visitors count" /></a></p>
 
 <h1 align="center">👋 Hello! I'm Vito</h1>
-As a Fresh Graduate of Informatics, I have a passion for developing Web and Mobile Apps that are user-friendly and secure. I enjoy working with diverse teams and learning new technologies. I am looking for an opportunity to apply my knowledge as a Software Engineer or in any related field within an innovative work environment.
+As a Software Engineer, I possess a strong foundation in developing Web and Mobile Apps as products that are user-friendly and secure. I am passionate about understanding the business requirements of clients and dedicated within the context of implementing and providing those products to improve their business processes and outcomes. Experienced in collaborating and working with diverse teams within innovative work environments and continuously relishes learning new technologies.
 
 <h3></h3>
 
