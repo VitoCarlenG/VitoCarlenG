@@ -1,6 +1,6 @@
 <p align="right"><a href="https://github.com/VitoCarlenG"><img src="https://komarev.com/ghpvc/?username=VitoCarlenG&label=Profile%20views&color=2849b2&style=flat" alt="visitors count" /></a></p>
 
-<h1 align="center">👋 Hello! I'm Vito</h1>
+<h1 align="center">Hello! I'm Vito 👋</h1>
 As a Software Engineer, I possess a strong foundation in developing Web and Mobile Apps as products that are user-friendly and secure. I am passionate about understanding the business requirements of clients and dedicated within the context of providing and implementing those products to improve their business processes and outcomes. Experienced in collaborating with diverse teams in innovative work environments and continuously relishes learning new technologies.
 
 <h3></h3>
